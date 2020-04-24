@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>show_more</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.38166667,0.618333333 C6.0401706,0.959829404 6.0401706,1.51350393 6.38166667,1.855 L10.6516667,6.125 L10.6516667,6.125 L0.875,6.125 C0.391750844,6.125 -5.91809532e-17,6.51675084 0,7 C4.88392425e-16,7.48324916 0.391750844,7.875 0.875,7.875 L10.6516667,7.875 L10.6516667,7.875 L6.38166667,12.145 C6.0401706,12.4864961 6.0401706,13.0401706 6.38166667,13.3816667 C6.72316274,13.7231627 7.27683726,13.7231627 7.61833333,13.3816667 L13.2928932,7.70710678 C13.6834175,7.31658249 13.6834175,6.68341751 13.2928932,6.29289322 L7.61833333,0.618333333 C7.27683726,0.276837263 6.72316274,0.276837263 6.38166667,0.618333333 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Products" transform="translate(-1260.000000, -1025.000000)">
+            <g id="show_more" transform="translate(1260.000000, 1025.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Long-arrow-right" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g id="👷‍♂️Atoms/Colour/Blue/100%" mask="url(#mask-2)" fill="#249AF3">
+                    <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="16" height="16"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,0 C2.68652419,0 0,2.68749194 0,6 C0,9.31444355 2.68652419,12 6,12 C9.31347581,12 12,9.31444355 12,6 C12,2.68749194 9.31347581,0 6,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Products" transform="translate(-402.000000, -154.000000)">
+            <g id="Input" transform="translate(165.000000, 142.000000)">
+                <g id="Tags" transform="translate(39.000000, 6.000000)">
+                    <g id="Tag" transform="translate(91.000000, 0.000000)">
+                        <g id="Icons/Solid/Close-Circle-Solid">
+                            <g transform="translate(107.000000, 6.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Close-Circle-Solid" fill-opacity="0" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g id="👷‍♂️Atoms/Colour/Dark-Grey/100%" mask="url(#mask-2)" fill="#7F8FA4" fill-rule="evenodd">
+                                    <rect id="Rectangle" x="0" y="0" width="12" height="12"></rect>
+                                </g>
+                                <path d="M7.85212931,4.14390219 C8.08456934,4.37437148 8.10925119,4.73515434 7.92518304,4.99328265 L7.85609415,5.07520382 C7.85595158,5.07534762 7.85580893,5.07549134 7.85566623,5.07563501 L6.93583831,6.00050928 L7.85205485,6.9230522 C8.10768821,7.18058068 8.10615191,7.59658054 7.84862343,7.8522139 C7.8468624,7.85396197 7.84509148,7.85570005 7.84331075,7.85742806 C7.5790478,8.11386796 7.15765582,8.10997432 6.89817658,7.84869506 L5.99883831,6.94350928 L5.09859679,7.85115464 C4.84007819,8.11140323 4.42059239,8.11615859 4.15624055,7.86183734 C3.89747674,7.61289209 3.88951723,7.20131259 4.13846247,6.94254878 L4.14606544,6.93477706 L4.14606544,6.93477706 L5.06883831,6.00650928 L4.14848341,5.07992727 C3.8921287,4.82179422 3.89357033,4.40471949 4.15170337,4.14836478 C4.15320857,4.14686995 4.15472098,4.14538241 4.15624055,4.14390219 C4.42009138,3.88688438 4.84174805,3.89042865 5.10124113,4.15184547 L6.00683831,5.06350928 L6.9191996,4.14710738 C7.17606087,3.88889975 7.59349991,3.88746559 7.85212931,4.14390219 Z" id="Close" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

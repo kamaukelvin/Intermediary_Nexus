@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.65024222,10.6169348 L3.6448814,6.61155337 C3.4517062,6.41837818 3.4517062,6.1051924 3.6448814,5.91203782 L4.11204262,5.44487659 C4.30488806,5.25203115 4.61743493,5.25166018 4.81073379,5.4440522 L8.0000103,8.61838665 L11.1892662,5.4440522 C11.3825651,5.25166018 11.6951119,5.25203115 11.8879574,5.44487659 L12.3551186,5.91203782 C12.5482938,6.10521301 12.5482938,6.41839879 12.3551186,6.61155337 L8.34977839,10.6169348 C8.15660319,10.8100894 7.84341742,10.8100894 7.65024222,10.6169348 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Products" transform="translate(-165.000000, -895.000000)">
+            <g id="Group-4" transform="translate(135.000000, 518.000000)">
+                <g id="PB-01">
+                    <g id="content" transform="translate(20.000000, 217.000000)">
+                        <g id="Quick-Details" transform="translate(0.000000, 89.000000)">
+                            <g id="Combined-MPG" transform="translate(0.000000, 59.000000)">
+                                <g id="Combined-MPG-Title">
+                                    <g id="Icon">
+                                        <g id="Icons/Line/Arrrow-down" transform="translate(7.000000, 7.000000)">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <use id="Arrow-down" fill-opacity="0" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                            <g id="👷‍♂️Atoms/Colour/Dark-Grey/100%" mask="url(#mask-2)" fill="#7F8FA4" fill-rule="evenodd">
+                                                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
